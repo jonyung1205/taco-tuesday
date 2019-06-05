@@ -1,0 +1,23 @@
+body {
+    background-image: url("/assets/img/photo-1543353071-873f17a7a088.jpg");
+}
+
+ul {
+    padding: 5px;
+    margin: 5px;
+    background: #ffff99;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.create-form {
+    padding: 5px;
+    margin: 5px;
+    background: #ffff99;
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
